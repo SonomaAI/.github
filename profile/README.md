@@ -1,17 +1,17 @@
 # Sonoma-AI
-Welcome to the official repository for Sonoma-AI. We are a community-driven 501(c)(3) nonprofit dedicated to demystifying Artificial Intelligence and fostering collaboration among tech professionals and the broader community.
+Welcome to the official repository for Sonoma-AI. We are a community-driven 501(c)(3) nonprofit dedicated to demystifying Artificial Intelligence and fostering collaboration among tech professionals and the broader community in our neck of the woods - Sonoma County.
 
 ### 🌟 Mission Statement
-Sonoma-AI creates a collaborative educational community for remote tech workers and local leaders. We focus on:
+Sonoma-AI creates a collaborative educational community for remote tech workers and local professionals. We focus on:
 - AI Infrastructure & Tools: Building the foundation for modern applications.
 - Data Science & Machine Learning: Sharing best practices and technical insights.
-- Educational Events: Hosting forums that bridge the gap between "techies" and the AI-curious.
+- Educational Events: Hosting forums that bridge the gap between AI practitioners and AI experts.
 
 ### 👥 Who We Serve
 Our community is a diverse mix of:
 - Entrepreneurs & Developers building the next generation of tools.
 - Government Leaders looking to streamline public services.
-- The AI-Curious seeking to understand how technology impacts their daily lives.
+- The AI-Curious seeking to understand how best to use technology to improve their lives.
 
 ### 📅 Upcoming Events
 - Date: June 19, 2026
@@ -32,11 +32,11 @@ Sonoma-AI is organized exclusively for educational and scientific purposes under
 - CA Entity Number: 6470466
 - CA Registry of Charitable Organizations: CT0296831
 
+---
+🤝 **How to Contribute** <br>
+We use this GitHub organization to share code samples, AI best practices, and event resources.
+1. Explore: Check out our repositories for running our community programs and documentation.
+2. Collaborate: Open an Discussion, Issue, or Pull Request if you have a tool or prompt to share.
+3. Donate: Support our educational mission. (Every contribution helps us keep the community accessible).
 
-### 🤝 How to Contribute
-We use this GitHub organization to share prompts, code samples, and event resources.
-1. Explore: Check out our repositories for city government tools and documentation.
-2. Collaborate: Open an Issue or Pull Request if you have a tool or prompt to share.
-3. Donate: Support our educational mission. (Every contribution helps us keep our events accessible).
-
-**Maintained by Sonoma-AI**
+Maintained by **Sonoma-AI**
